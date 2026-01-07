@@ -7,7 +7,7 @@
 ## 🛠️ 技術實力 | Skills
 
 ### 🤖 人工智慧與資料工程 (AI & Data Engineering)
-* **核心框架**: TensorFlow, Keras, PyTorch, LangChain (RAG), Scikit-Learn.
+* **核心框架**: TensorFlow, Keras, LangChain (RAG), Scikit-Learn.
 * **資料處理**: Python (Pandas, Numpy), SQL/NoSQL (MySQL, Pymongo), ETL 流程處理.
 * **實務經驗**: 曾於 **網銀國際 (Wanin)** 擔任 AI 實習生，負責語意標註與 NanoDet 影像偵測模型任務。
 
